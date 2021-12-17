@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "de1700be-e428-4368-85c9-54e3651c8bb3",
+      "status": false,
+      "title": "MausamOne"
+    },
+    {
+      "id": "819fab45-bc61-4ccb-8106-a2a9fb39c17c",
+      "status": false,
+      "title": "Learn React-Redux"
+    }
+  ]
+}
